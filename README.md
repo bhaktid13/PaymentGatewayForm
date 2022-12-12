@@ -1,5 +1,6 @@
 # Payment Gateway Form
-Created a responsive payment gateway form. First the billing address has to be filled and then the payment details. The user can proceed to checkout once all the details have been filled appropriately
+Created a responsive payment gateway form. First the billing address has to be filled and then the payment details. The user can proceed to checkout once all the details have been filled appropriately.
+
 Technology used: HTML and CSS
 
 Preview:
